@@ -1,0 +1,6 @@
+* What?
+
+=workbench-nix= is a Nix layer for the cluster development =workbench= in
+https://github.com/input-output-hk/cardano-node.
+
+The purpose for keeping it separate is to resolve the Nix flake circularity issues.
